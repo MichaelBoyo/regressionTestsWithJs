@@ -1,0 +1,22 @@
+{
+  "name": "qatestswithjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/chai": "^4.3.4",
+    "@types/mocha": "^10.0.1",
+    "axios": "^1.3.6",
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  },
+  "dependencies": {
+    "typescript": "^5.0.4"
+  }
+}
