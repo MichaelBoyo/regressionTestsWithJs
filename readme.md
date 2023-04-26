@@ -1,2 +1,3 @@
-# run npx tsc to comile to js
-# run npx mocha dist/index.test.js to run the tests
+# clone the prject
+# run -> npm install
+# run -> npm run test
